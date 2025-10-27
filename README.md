@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 <h3 align="center">MERN Stack Developer | React.js & Node.js Expert | Full-Stack JavaScript Engineer | React Native Mobile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-anas16&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-anas16" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-anas16&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-anas16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-anas16" alt="muhammad-anas16" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-anas16" alt="muhammad-anas16" /></a> </p> -->
 
 - 🌱 I’m currently learning **Python | Agentic AI**
 
