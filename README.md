@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Developer;JavaScript+|+Node.js+|+React.js+|+Next.js;HTML5+|+Tailwind+CSS+|+MongoDB;Exploring+OpenAI+SDK+|+Agentic+AI+|+Docker;Python+|+Cloud+|+AI+Integrations&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Developer;JavaScript+|+Node.js+|+React.js+|+Next.js;HTML5+|+Tailwind+CSS+|+MongoDB;Exploring+Agentic+AI+|+Docker;Python+|+AI+Integrations&center=true&width=500&height=50">
 </p>
 
 ---
