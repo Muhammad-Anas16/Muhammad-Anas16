@@ -46,7 +46,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-anas16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
@@ -76,4 +76,4 @@
 
 <p align="center">
     [![](https://visitcount.itsvg.in/api?id=muhammad-anas16&icon=4&color=4)](https://visitcount.itsvg.in)
-</p>
+</p> -->
