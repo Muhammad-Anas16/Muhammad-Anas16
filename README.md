@@ -31,9 +31,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-anas16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muhammadanashanif16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://wa.me/923182834203" target="blank">
+<!-- <a href="https://wa.me/923182834203" target="blank">
   <img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904)" alt="WhatsApp" height="30" width="40" />
-</a>
+</a> -->
 <!-- <a href="https://instagram.com/bilal._waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal._waleed" height="30" width="40" /></a> -->
 </p>
 
